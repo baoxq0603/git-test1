@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd86eedd-acf9-47d7-81e9-f040a71f55f9" name="Changes" comment="第一次">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bxq/git/Gittest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bxq/git/Gittest.java" afterDir="false" />
+    <list default="true" id="bd86eedd-acf9-47d7-81e9-f040a71f55f9" name="Changes" comment="第三次">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="bd7bb80646be448baa6f94533bf4936d23e3d094" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -39,7 +45,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="Gittest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -58,6 +64,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Gittest" />
+        <item itemvalue="Application.Gittest" />
+        <item itemvalue="Application.Gittest" />
       </list>
     </recent_temporary>
   </component>
@@ -70,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657973949384</updated>
       <workItem from="1657973951153" duration="987000" />
+      <workItem from="1657976733866" duration="506000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1657974819105</created>
@@ -89,7 +98,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
