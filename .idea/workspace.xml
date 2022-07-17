@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd86eedd-acf9-47d7-81e9-f040a71f55f9" name="Changes" comment="第三次">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bxq/git/Gittest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bxq/git/Gittest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +78,7 @@
       <updated>1657973949384</updated>
       <workItem from="1657973951153" duration="987000" />
       <workItem from="1657976733866" duration="506000" />
+      <workItem from="1658048462906" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1657974819105</created>
